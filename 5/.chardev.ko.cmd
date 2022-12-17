@@ -1,1 +1,0 @@
-cmd_/home/flyicar/eltex/mod5/linux_modules/5/chardev.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/flyicar/eltex/mod5/linux_modules/5/chardev.ko /home/flyicar/eltex/mod5/linux_modules/5/chardev.o /home/flyicar/eltex/mod5/linux_modules/5/chardev.mod.o;  true
